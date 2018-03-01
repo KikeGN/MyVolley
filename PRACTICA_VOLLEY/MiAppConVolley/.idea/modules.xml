@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MiAppConVolley.iml" filepath="$PROJECT_DIR$/MiAppConVolley.iml" />
+      <module fileurl="file://C:\Users\quiqu\Downloads\VolleyApp_placeIMG-master\MiAppConVolley\MiAppConVolley.iml" filepath="C:\Users\quiqu\Downloads\VolleyApp_placeIMG-master\MiAppConVolley\MiAppConVolley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\quiqu\Downloads\VolleyApp_placeIMG-master\MiAppConVolley\app\app.iml" filepath="C:\Users\quiqu\Downloads\VolleyApp_placeIMG-master\MiAppConVolley\app\app.iml" />
+    </modules>
+  </component>
+</project>
